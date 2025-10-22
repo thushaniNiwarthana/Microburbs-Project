@@ -1,0 +1,141 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f5f7fa;
+    margin: 0;
+    padding: 0 0 40px 0;
+}
+
+h1 {
+    color: #083f6f;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    font-size: 2.1em;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+label {
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+select {
+    padding: 6px 12px;
+    font-size: 1em;
+    border-radius: 5px;
+    border: 1px solid #b2cce3;
+    background: #fff;
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.dashboard-summary-cards {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin: 10px 0 20px 0;
+}
+
+.summary-stat-card {
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 7px rgba(8, 63, 111, 0.09);
+    padding: 22px 36px;
+    text-align: center;
+    font-size: 1.2em;
+    min-width: 160px;
+    max-width: 240px;
+    font-weight: 600;
+    border-bottom: 4px solid #5aadff;
+}
+
+#summaryCards {
+    margin: 30px 0 10px 0;
+}
+
+.top-property-row {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.other-property-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
+.summary-card {
+    min-width: 240px;
+    max-width: 260px;
+    box-sizing: border-box;
+    padding: 18px 25px;
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 7px rgba(8, 63, 111, 0.08);
+    text-align: center;
+    font-size: 1.125em;
+    border-left: 5px solid #5aadff;
+}
+
+.summary-card strong {
+    color: #1763a6;
+    font-size: 1.12em;
+}
+
+.dashboard-charts {
+    display: flex;
+    gap: 45px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 0 25px 0;
+}
+
+canvas {
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+    padding: 8px;
+    width: 340px !important;
+    max-width: 98vw;
+    height: 280px !important;
+    margin: 0 0 18px 0;
+}
+
+@media (max-width: 800px) {
+    .dashboard-summary-cards {
+        flex-direction: column;
+        align-items: center;
+        gap: 18px;
+    }
+
+    .top-property-row,
+    .other-property-grid {
+        flex-direction: column;
+        align-items: center;
+        gap: 18px;
+    }
+
+    canvas {
+        width: 95vw !important;
+        height: 250px !important;
+    }
+}
+
+.insight-panel {
+    background: #e8f0fe;
+    border: 1px solid #c6dafc;
+    border-radius: 7px;
+    padding: 15px 20px;
+    margin: 20px auto;
+    max-width: 720px;
+    font-size: 1.1em;
+    color: #084298;
+    box-shadow: 0 2px 6px rgba(8, 63, 111, 0.1);
+}
+
+.insight-panel strong {
+    font-size: 1.12em;
+}

@@ -1,0 +1,141 @@
+{
+  "results": [
+    {
+      "address": { "sa1": "11101120615", "sal": "Belmont North", "state": "NSW", "street": "3 Dalton Close" },
+      "area_level": "address",
+      "area_name": "3 Dalton Close, Belmont North, NSW",
+      "attributes": { "bathrooms": 1, "bedrooms": 3, "building_size": "nan", "land_size": "607.0" },
+      "coordinates": { "longitude": 151.67272249 },
+      "gnaf_pid": "GANSW704082298",
+      "listing_date": "2025-10-03",
+      "price": 950000,
+      "property_type": "House"
+    },
+    {
+      "address": { "sa1": "11101120615", "sal": "Belmont North", "state": "NSW", "street": "25 Seacroft Close" },
+      "area_level": "address",
+      "area_name": "25 Seacroft Close, Belmont North, NSW",
+      "attributes": { "bathrooms": 2, "bedrooms": 4, "building_size": "None", "land_size": "973 m²" },
+      "coordinates": { "latitude": -33.01183148, "longitude": 151.67286749 },
+      "gnaf_pid": "GANSW704079896",
+      "listing_date": "2025-10-07",
+      "price": 1250000,
+      "property_type": "House"
+    },
+    {
+      "address": { "sa1": "11101120618", "sal": "Belmont North", "state": "NSW", "street": "10 Arlington Street" },
+      "area_level": "address",
+      "area_name": "10 Arlington Street, Belmont North, NSW",
+      "attributes": { "bathrooms": 1, "bedrooms": 3, "building_size": "None", "land_size": "613 m²" },
+      "coordinates": { "latitude": -33.01594389, "longitude": 151.67347363 },
+      "gnaf_pid": "GANSW704076595",
+      "listing_date": "2025-09-17",
+      "price": 925000,
+      "property_type": "Unit"
+    },
+    {
+      "address": { "sa1": "11101120615", "sal": "Belmont North", "state": "NSW", "street": "67 Old Belmont Road" },
+      "area_level": "address",
+      "area_name": "67 Old Belmont Road, Belmont North, NSW",
+      "attributes": { "bathrooms": 1, "bedrooms": 3, "building_size": "nan", "land_size": "556.4" },
+      "coordinates": { "latitude": -33.01649474, "longitude": 151.67157968 },
+      "gnaf_pid": "GANSW704073819",
+      "listing_date": "2025-10-08",
+      "price": 890000,
+      "property_type": "House"
+    },
+    {
+      "address": { "sa1": "11101120624", "sal": "Belmont North", "state": "NSW", "street": "17 Dulungra Avenue" },
+      "area_level": "address",
+      "area_name": "17 Dulungra Avenue, Belmont North, NSW",
+      "attributes": { "bathrooms": 3, "bedrooms": 5, "building_size": "None", "land_size": "605 m²" },
+      "coordinates": { "latitude": -33.01204354, "longitude": 151.66851581 },
+      "gnaf_pid": "GANSW715835616",
+      "listing_date": "2025-10-08",
+      "price": 1350000,
+      "property_type": "House"
+    },
+    {
+      "address": { "sa1": "11101120618", "sal": "Belmont North", "state": "NSW", "street": "46 Arlington Street" },
+      "area_level": "address",
+      "area_name": "46 Arlington Street, Belmont North, NSW",
+      "attributes": { "bathrooms": 4, "bedrooms": 6, "building_size": "nan", "land_size": "638.6" },
+      "coordinates": { "latitude": -33.01645636, "longitude": 151.67699981 },
+      "gnaf_pid": "GANSW704076654",
+      "listing_date": "2025-08-22",
+      "price": 1550000,
+      "property_type": "House"
+    },
+    {
+      "address": { "sa1": "99881122334", "sal": "Charlestown", "state": "NSW", "street": "55 Pacific Highway" },
+      "area_level": "address",
+      "area_name": "55 Pacific Highway, Charlestown, NSW",
+      "attributes": { "bathrooms": 1, "bedrooms": 2, "building_size": "70.0", "land_size": "75.0" },
+      "coordinates": { "latitude": -32.9656, "longitude": 151.6955 },
+      "gnaf_pid": "GANSW900104401",
+      "listing_date": "2025-10-12",
+      "price": 670000,
+      "property_type": "Unit"
+    },
+    {
+      "address": { "sa1": "22334455667", "sal": "Warners Bay", "state": "NSW", "street": "8 The Esplanade" },
+      "area_level": "address",
+      "area_name": "8 The Esplanade, Warners Bay, NSW",
+      "attributes": { "bathrooms": 2, "bedrooms": 3, "building_size": "115.0", "land_size": "180.0" },
+      "coordinates": { "latitude": -32.9770, "longitude": 151.6500 },
+      "gnaf_pid": "GANSW900100301",
+      "listing_date": "2025-09-28",
+      "price": 980000,
+      "property_type": "Apartment"
+    },
+    {
+      "address": { "sa1": "12345678901", "sal": "Sydney", "state": "NSW", "street": "101 George Street" },
+      "area_level": "address",
+      "area_name": "101 George Street, Sydney, NSW",
+      "attributes": { "bathrooms": 2, "bedrooms": 4, "building_size": "140.0", "land_size": "180.0" },
+      "coordinates": { "latitude": -33.8675, "longitude": 151.2070 },
+      "gnaf_pid": "GANSW800100001",
+      "listing_date": "2025-09-18",
+      "price": 2200000,
+      "property_type": "Apartment"
+    },
+    {
+      "address": { "sa1": "20418215469", "sal": "Newcastle", "state": "NSW", "street": "77 Hunter St" },
+      "area_level": "address",
+      "area_name": "77 Hunter St, Newcastle, NSW",
+      "attributes": { "bathrooms": 2, "bedrooms": 5, "building_size": "200.0", "land_size": "450.0" },
+      "coordinates": { "latitude": -32.9271, "longitude": 151.7765 },
+      "gnaf_pid": "GANSW200100222",
+      "listing_date": "2025-10-01",
+      "price": 1825000,
+      "property_type": "House"
+    },
+    {
+      "address": { "sa1": "31022332455", "sal": "Lambton", "state": "NSW", "street": "8 Elder St" },
+      "area_level": "address",
+      "area_name": "8 Elder St, Lambton, NSW",
+      "attributes": { "bathrooms": 1, "bedrooms": 3, "building_size": "110.0", "land_size": "300.0" },
+      "coordinates": { "latitude": -32.9200, "longitude": 151.7141 },
+      "gnaf_pid": "GANSW300101003",
+      "listing_date": "2025-10-15",
+      "price": 815000,
+      "property_type": "Cottage"
+    },
+    {
+      "address": { "sa1": "11101120634", "sal": "Belmont North", "state": "NSW", "street": "380-384 Pacific Highway" },
+      "area_level": "address",
+      "area_name": "380-384 Pacific Highway, Belmont North, NSW",
+      "attributes": { "bathrooms": null, "bedrooms": null, "building_size": "1377.0", "land_size": "1377.0" },
+      "coordinates": { "latitude": -33.02305765, "longitude": 151.66381854 },
+      "gnaf_pid": "GANSW716483968",
+      "listing_date": "2025-09-23",
+      "price": 1800000,
+      "property_type": "Unit"
+    },
+    {
+      "area_name": "123 Main St, Sydney, NSW",
+      "price": 1200000,
+      "attributes": { "bedrooms": 3, "bathrooms": 2, "land_size": 400, "garage_spaces": 1 }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Belmont North": {
+    "age_brackets": [
+      {"age": "0-17", "gender": "persons", "proportion": 0.18},
+      {"age": "18-24", "gender": "persons", "proportion": 0.12},
+      {"age": "25-44", "gender": "persons", "proportion": 0.30},
+      {"age": "45-64", "gender": "persons", "proportion": 0.24},
+      {"age": "65+", "gender": "persons", "proportion": 0.16}
+    ],
+    "income": [
+      {"income_bracket": "<$15k", "median_income": 90480, "proportion": 0.10, "cr": {"median_income": 89440, "proportion": 0.15}},
+      {"income_bracket": "$15k-$32k", "median_income": 90480, "proportion": 0.29, "cr": {"median_income": 89440, "proportion": 0.23}},
+      {"income_bracket": "$33k-$50k", "median_income": 90480, "proportion": 0.27, "cr": {"median_income": 89440, "proportion": 0.28}},
+      {"income_bracket": ">$50k", "median_income": 90480, "proportion": 0.34, "cr": {"median_income": 89440, "proportion": 0.34}}
+    ],
+    "population": [
+      {"date": "Sat, 31 Dec 2016 00:00:00 GMT", "value": 5950, "cr": {"value": 4370}},
+      {"date": "Fri, 31 Dec 2021 00:00:00 GMT", "value": 6010, "cr": {"value": 5180}}
+    ]
+  },
+  "Warners Bay": {
+    "age_brackets": [
+      {"age": "0-17", "gender": "persons", "proportion": 0.15},
+      {"age": "18-24", "gender": "persons", "proportion": 0.14},
+      {"age": "25-44", "gender": "persons", "proportion": 0.28},
+      {"age": "45-64", "gender": "persons", "proportion": 0.26},
+      {"age": "65+", "gender": "persons", "proportion": 0.17}
+    ],
+    "income": [
+      {"income_bracket": "<$15k", "median_income": 91000, "proportion": 0.12, "cr": {"median_income": 90000, "proportion": 0.16}},
+      {"income_bracket": "$15k-$32k", "median_income": 91000, "proportion": 0.27, "cr": {"median_income": 90000, "proportion": 0.21}},
+      {"income_bracket": "$33k-$50k", "median_income": 91000, "proportion": 0.26, "cr": {"median_income": 90000, "proportion": 0.29}},
+      {"income_bracket": ">$50k", "median_income": 91000, "proportion": 0.35, "cr": {"median_income": 90000, "proportion": 0.34}}
+    ],
+    "population": [
+      {"date": "Sat, 31 Dec 2016 00:00:00 GMT", "value": 5900, "cr": {"value": 4470}},
+      {"date": "Fri, 31 Dec 2021 00:00:00 GMT", "value": 5960, "cr": {"value": 5230}}
+    ]
+  }
+}
